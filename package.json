@@ -1,0 +1,26 @@
+{
+  "name": "gesturecontrols",
+  "version": "0.1.0",
+  "description": "A control of threejs, support rotate, drag and scale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server -c-1 -p 19000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xincept/GestureControls.git"
+  },
+  "keywords": [
+    "Threejs",
+    "Control"
+  ],
+  "author": "xincept",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xincept/GestureControls/issues"
+  },
+  "homepage": "https://github.com/xincept/GestureControls#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
